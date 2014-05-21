@@ -12,6 +12,17 @@ body {
   }
 }
 ```
+
+or
+
+```
+body {
+  &:after {
+    content: entity('euro');
+  }
+}
+```
+
 will output
 
 ```
