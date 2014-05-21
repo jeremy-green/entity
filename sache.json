@@ -1,5 +1,5 @@
 {
     "name": "Entity",
-    "description": "",
+    "description": "A Sass function that will output properly encoded entities",
     "tags": ["sass", "entity", "entities", "function"]
 }
